@@ -14,11 +14,11 @@ This repository is a personal collection of my solutions to LeetCode problems. I
 
 ## 🗂 Folder Structure
 ├── Easy <br>
-|  ├── Solutions <br>
+ |  ├── Solutions <br>
 ├── Medium <br>
-|  ├── Solutions <br>
+ |  ├── Solutions <br>
 ├── Hard <br>
-|  ├── Solutions <br>
+ |  ├── Solutions <br>
 └── README.md
 
 ## ✅ Purpose
