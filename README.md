@@ -13,9 +13,9 @@ This repository is a personal collection of my solutions to LeetCode problems. I
 - Code is clean, simple, and readable
 
 ## 🗂 Folder Structure
-├── Easy/
-├── Medium/
-├── Hard/
+├── Easy
+├── Medium
+├── Hard
 └── README.md
 
 ## ✅ Purpose
